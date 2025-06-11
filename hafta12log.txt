@@ -1,0 +1,5 @@
+- UDP istemci ve sunucu dosyaları yazıldı (udp_client.py ve udp_server.py).
+- Sunucu tarafında sabit kullanıcı listesi tanımlandı.
+- İstemciden kullanıcı adı ve şifre alınıp sunucuya gönderildi.
+- Sunucu gelen bilgileri kontrol edip durum mesajı döndürdü.
+- Uygulama başarıyla test edildi.
